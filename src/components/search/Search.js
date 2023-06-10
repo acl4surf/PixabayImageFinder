@@ -9,7 +9,7 @@ class Search extends Component {
     searchText: "",
     amount: 15,
     apiUrl: "https://pixabay.com/api",
-    apiKey: "37001400-1ef1b9014f86b58a44e9508c1",
+    apiKey: "add your own api key",
     images: [],
   };
   onTextChange = (e) => {
